@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **kaveesha@gmail.com**
 
-
-<hr/>
+<br/>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me🤝 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/kaveesha-pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveesha-pathirana" height="30" width="40" /></a>
