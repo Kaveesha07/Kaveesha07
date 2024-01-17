@@ -1,12 +1,12 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 <h1 align="center">Hi 👋, I'm Kaveesha Pathirana</h1>
 <h3 align="center">A passionate software engineer enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveesha07&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesha07" /> </p>
 <hr/>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 👨‍💻 All of my projects are available at [http://kaveeshapathirana.rf.gd/](http://kaveeshapathirana.rf.gd/)
 
