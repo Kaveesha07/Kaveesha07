@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👨‍💻 All of my projects are available at [http://kaveeshapathirana.rf.gd/](http://kaveeshapathirana.rf.gd/)
+- 👨‍💻 All of my projects are available at [[http://kaveeshapathirana.rf.gd/](https://kaveeshapathirana.netlify.app/)]
 
 - 💬 Ask me about **PHP, JavaScript , ReactJS**
 
